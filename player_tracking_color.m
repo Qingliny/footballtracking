@@ -1,4 +1,4 @@
-cc
+
 % read the file
 vidobj = VideoReader('test1.mp4');
 % vid_rec1 = VideoWriter('field.mp4','MPEG-4');
@@ -79,7 +79,7 @@ for t =38
 %     writeVideo(vid_rec1,frame_blue);
 end
 % close(vid_rec1);
-% close(vid_rec2);
+
 
 
 
