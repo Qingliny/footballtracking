@@ -1,5 +1,4 @@
-cc
-%%
+
 % read the file
 vidobj = VideoReader('test1.mp4');
 numFrames = get(vidobj,'NumberOfFrames');
